@@ -1,0 +1,1 @@
+c:\users\rsumalde\documents\visual studio 2017\Projects\RaspberryPiProto\RaspberryPiProto\RaspberryPiProto.csproj;x86
